@@ -117,12 +117,12 @@ celerybeat.pid
 
 # Environments
 .env
-.venv
+.myvenv
 env/
-venv/
+myvenv/
 ENV/
 env.bak/
-venv.bak/
+myvenv.bak/
 pythonenv*
 
 # Spyder project settings
@@ -151,4 +151,3 @@ dmypy.json
 
 # End of https://www.toptal.com/developers/gitignore/api/django
 
-myvenv
